@@ -1,5 +1,9 @@
 # Claude Usage Monitor
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 Windows 桌面懸浮列，即時顯示 claude.ai 的 API 使用量。
 
 ---
