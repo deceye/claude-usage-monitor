@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/app_icon.svg</file>
+        <file>icons/app_icon.png</file>
+        <file>sessionkey.png</file>
+    </qresource>
+</RCC>

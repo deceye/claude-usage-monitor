@@ -1,0 +1,34 @@
+# Build output
+build/
+build-static/
+dist/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+.cmake/
+*.ninja_deps
+*.ninja_log
+build.ninja
+.ninja_deps
+.ninja_log
+
+# Compiled objects
+*.o
+*.obj
+*.a
+*.dll.a
+
+# IDE
+.vs/
+*.suo
+*.user
+.vscode/
+
+# Qt static build (large, can be rebuilt)
+qt6-static-build/
+qt5/
+
+# Claude Code AI tool config (local dev environment only)
+.claude/
