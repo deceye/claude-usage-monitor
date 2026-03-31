@@ -32,6 +32,7 @@ qt5/
 
 # Claude Code AI tool config (local dev environment only)
 .claude/
+CLAUDE.md
 
 # Release packages
 *.zip
